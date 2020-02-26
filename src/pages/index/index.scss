@@ -1,0 +1,21 @@
+.index{
+  width: 680px;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  .at-article__h1{
+    text-align: center;
+    margin-bottom: 80px;
+    font-size: 30Px;
+  }
+  .icon-text{
+    text-align: center;
+    font-size: 18Px;
+    margin-top: 15px;
+    color: #3F536E;
+  }
+  .at-col{
+    text-align: center !important;
+  }
+}
